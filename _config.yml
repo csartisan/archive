@@ -1,0 +1,13 @@
+title: CSArtisan Archives
+description: Archives of the CSArtisan Newspaper
+baseurl: ""
+url: "https://csartisan.org"
+
+permalink: /:slug.html
+
+sass:
+  style: compressed
+
+theme: no-style-please
+plugins:
+  - jekyll-feed

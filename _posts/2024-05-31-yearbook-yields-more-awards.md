@@ -2,11 +2,11 @@
 #http://docs.csartisan.org/docs/contributing/
 
 title: "Yearbook Yields More Awards!"
-author: "Evyn Clayton"
-categories: [ updates ]
-image: ./assets/images/posts/none/2.jpg
-imagecred: ""
-tags: []
+#author: "Evyn Clayton"
+#categories: [ updates ]
+#image: ./assets/images/posts/none/2.jpg
+#imagecred: ""
+#tags: []
 ---
 In the digital age, students have fewer and fewer tangible reminders of their time in High School. Yearbooks are one of the few physical memories students across the United States, including CSArts-SGV students, will have as a keepsake. So much time, effort, and attention to detail goes into the monumental task of accurately capturing a year at CSArts and this year, the yearbook team is releasing another award winning edition.
 

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{%- include back_link.html -%}
+
+<article class="comic-post">
+  <p class="post-meta">
+    <time datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
+    {%- if page.author -%}
+      — <span class="post-author">By {{ page.author }}</span>
+    {%- endif -%}
+    {%- if page.categories and page.categories.size > 0 -%}
+      — <span class="post-cat">{{ page.categories | join: ", " }}</span>
+    {%- endif -%}
+  </p>
+
+  <h1>{{ page.title }}</h1>
+
+  {{ content }}
+</article>
